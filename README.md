@@ -14,5 +14,3 @@ NOTE: The docker is able to read the environment variables automatically from .e
 MYSQL_CONNECTION_URI: ${SUPERTOKENS_MYSQL_CONNECTION_URI} changes to
 
 MYSQL_CONNECTION_URI: "mysql://supertokens_user:8e61a18eb0bdb21277560f96f06b2b87@mysql:3306/supertokens"
-
-Additionally we have a hosted version on [https://cryptiq.live](https://cryptiq.live) which works fine except that sometimes cloudflare drops the connections and hangs the entire app up. There is no available fix for the issue as of right now. (Source: [https://community.cloudflare.com/t/internal-tunnel-connections-keep-dropping/767607](https://community.cloudflare.com/t/internal-tunnel-connections-keep-dropping/767607) and [https://github.com/cloudflare/cloudflared/issues/1012](https://github.com/cloudflare/cloudflared/issues/1012))
