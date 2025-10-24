@@ -1,7 +1,5 @@
 .idea
 .DS_STORE
-frontend/.env
-.env
 
 # Environment variables
 .env
