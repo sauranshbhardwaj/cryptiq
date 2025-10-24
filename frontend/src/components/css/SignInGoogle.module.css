@@ -1,0 +1,5 @@
+@reference "../../index.css";
+
+.button {
+  @apply flex w-full cursor-pointer flex-row items-center justify-center gap-3 rounded-lg border border-zinc-500 px-5 py-2.5 text-center text-sm font-medium text-white hover:text-white focus:outline-none;
+}

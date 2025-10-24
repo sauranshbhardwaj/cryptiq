@@ -1,0 +1,5 @@
+@reference "../../index.css";
+
+.divider {
+  @apply my-6 flex h-4 flex-row items-center self-stretch text-xs whitespace-nowrap text-zinc-100/70 before:h-[0.062rem] before:w-full before:grow before:bg-zinc-300/70 after:h-[0.062rem] after:w-full after:grow after:bg-zinc-300/70;
+}
