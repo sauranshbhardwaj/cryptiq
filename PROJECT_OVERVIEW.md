@@ -1,6 +1,6 @@
 # CryptIQ — Project Overview
 
-A full‑stack, containerized web application for simulated crypto trading and portfolio tracking with authentication, live market data, leaderboards, and learning content.
+A full‑stack, containerized web application for simulated crypto trading and portfolio tracking with authentication, live market data, leaderboards, and learning modules.
 
 ## Quick Start
 
