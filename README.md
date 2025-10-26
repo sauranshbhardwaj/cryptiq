@@ -2,7 +2,7 @@
 
 CryptIQ is a full-stack, containerized trading simulator with real-time crypto prices, live leaderboards, and learning modules, integrating Binance, CoinDesk, and TwelveData APIs for diversified market data and user analytics
 
-![Uploading Landing Page.png…]()
+<img width="1503" height="1967" alt="Landing Page" src="https://github.com/user-attachments/assets/dc44c26a-3083-4371-91ca-ff9c83668a4d" />
 
 
 Getting started
